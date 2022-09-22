@@ -5,12 +5,17 @@ import java.util.Scanner;
 /*Fichier sans rapport avec le TP4 - Fonctions*/
 public class Entrainement {
     public static void main(String[] args) {
+        /*On déclare un objet de type Scanner nommé sc*/
         Scanner sc = new Scanner(System.in);
+        /*On déclare un objet de type Fonctions nommé f qui comntient tout les fonctions*/
         Fonctions f = new Fonctions();
+        /*On déclare un tableau de caractère qui contient toutes les opérations possible*/
+        char[] ope = new char[] {'+', '-', '/', '*', '^', '<', '>', '%'};
+        /*La variable quitter de type boolean prend la valeur de false*/
         boolean quitter = false;
 
         while (!false) {
-            System.out.print("Saisissez une opération (+,-,/,*,^, <, >) :");
+            System.out.print("Saisissez une opération (+,-,/,*,^, <, >, %) :");
             char operation = sc.next().charAt(0);
             if (operation == '+' || operation == '-' || operation == '/' || operation == '*' || operation == '^' || operation == '<'  || operation == '>') {
                 System.out.print("Saisir nombre 1 :");
@@ -41,8 +46,12 @@ public class Entrainement {
                         System.out.println(f.Multiplication(nbr1, nbr2));
                         break;
                     case '<':
+                        System.out.println(f.plusPetit(nbr1, nbr2));
                         break;
                     case '>':
+                        System.out.println(f.plusGrand(nbr1, nbr2));
+                        break;
+                    case '%':
                         break;
                 }
                 quitter = true;

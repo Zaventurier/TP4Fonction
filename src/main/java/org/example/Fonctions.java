@@ -64,4 +64,7 @@ public class Fonctions {
     public static double plusGrand(double nbr1, double nbr2){
         return Math.max(nbr1, nbr2);
     }
+    /*public static double Pourcentage(double nbr1, double nbr2){
+
+    }*/
 }

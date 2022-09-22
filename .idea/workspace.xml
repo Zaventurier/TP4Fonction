@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ba3de7a-9c47-4f66-be77-291dab9c1e37" name="Changes" comment="Modification de fonctions">
+    <list default="true" id="4ba3de7a-9c47-4f66-be77-291dab9c1e37" name="Changes" comment="Fonctions - Ajout de 2 nouvelles fonctions : Min et Max ; Ajout de 2 nouveaux cas : Min et Max">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Entrainement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Entrainement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Fonctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Fonctions.java" afterDir="false" />
@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663861013468</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Fonctions - Ajout de 2 nouvelles fonctions : Min et Max ; Ajout de 2 nouveaux cas : Min et Max">
+      <created>1663861534875</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663861534875</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +165,7 @@
     <MESSAGE value="Fonctions + exo9" />
     <MESSAGE value="Fonctions - Ajout de fonctions pour calcul (+, -, /, *, ^) + amélioration  calculatrice du TP3" />
     <MESSAGE value="Modification de fonctions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modification de fonctions" />
+    <MESSAGE value="Fonctions - Ajout de 2 nouvelles fonctions : Min et Max ; Ajout de 2 nouveaux cas : Min et Max" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fonctions - Ajout de 2 nouvelles fonctions : Min et Max ; Ajout de 2 nouveaux cas : Min et Max" />
   </component>
 </project>
