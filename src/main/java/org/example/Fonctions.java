@@ -31,4 +31,33 @@ public class Fonctions {
         n = 0;
         System.out.println("n vaut " + n);
     }
+
+    /*Fonction créer sans rapport avec le TP*/
+    public static double calculMoy(double totalnote, double nbrnote){
+        double moyenne = totalnote/nbrnote;
+        return moyenne;
+    }
+    public static double Addition(double nbr1, double nbr2){
+        /*Cette fonction à pour but de faire une addition entre 2 nombres*/
+        double addition = nbr1 + nbr2;
+        return addition;
+    }
+    public static double Soustraction(double nbr1, double nbr2){
+        /*Cette fonction à pour but de faire une soustraction entre 2 nombres*/
+        double soustraction = nbr1 - nbr2;
+        return soustraction;
+    }
+    public static double Division(double nbr1, double nbr2){
+        if(nbr2 == 0){
+            return 0;
+        }else{
+            return nbr1/nbr2;
+        }
+    }
+    public static double Multiplication(double nbr1, double nbr2){
+        return nbr1 * nbr2;
+    }
+    public static double Puissance(double nbr1, double nbr2){
+        return Math.pow(nbr1, nbr2);
+    }
 }
