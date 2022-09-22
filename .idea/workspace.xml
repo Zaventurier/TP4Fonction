@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ba3de7a-9c47-4f66-be77-291dab9c1e37" name="Changes" comment="agfyuzegtyuzg't uygv">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercice6Moyenne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4ba3de7a-9c47-4f66-be77-291dab9c1e37" name="Changes" comment="Fonctions - Ajout fonctions calculer moyenne - Exercice6">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Fonctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Fonctions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663845959904</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fonctions - Ajout fonctions calculer moyenne - Exercice6">
+      <created>1663846282291</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663846282291</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +107,7 @@
     <MESSAGE value="Exercice2 -" />
     <MESSAGE value="FichierFonctions + progr" />
     <MESSAGE value="agfyuzegtyuzg't uygv" />
-    <option name="LAST_COMMIT_MESSAGE" value="agfyuzegtyuzg't uygv" />
+    <MESSAGE value="Fonctions - Ajout fonctions calculer moyenne - Exercice6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fonctions - Ajout fonctions calculer moyenne - Exercice6" />
   </component>
 </project>

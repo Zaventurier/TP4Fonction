@@ -1,5 +1,6 @@
 package org.example;
 
+//Ce fichier rassemble l'ensemble des fonctions necessaire dans le tp4Fonction
 public class Fonctions {
     public static void AfficherMajorite(int age) {
         if (age < 18){
