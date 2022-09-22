@@ -8,7 +8,6 @@ public class Entrainement {
         Scanner sc = new Scanner(System.in);
         Fonctions f = new Fonctions();
         boolean quitter = false;
-        double resultat = 0;
 
         while (!false) {
             System.out.print("Saisissez une opération (+,-,/,*,^) :");

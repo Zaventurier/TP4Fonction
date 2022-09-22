@@ -39,13 +39,11 @@ public class Fonctions {
     }
     public static double Addition(double nbr1, double nbr2){
         /*Cette fonction à pour but de faire une addition entre 2 nombres*/
-        double addition = nbr1 + nbr2;
-        return addition;
+        return nbr1 + nbr2;
     }
     public static double Soustraction(double nbr1, double nbr2){
         /*Cette fonction à pour but de faire une soustraction entre 2 nombres*/
-        double soustraction = nbr1 - nbr2;
-        return soustraction;
+        return nbr1 - nbr2;
     }
     public static double Division(double nbr1, double nbr2){
         if(nbr2 == 0){
