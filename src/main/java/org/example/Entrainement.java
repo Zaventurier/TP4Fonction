@@ -10,9 +10,9 @@ public class Entrainement {
         boolean quitter = false;
 
         while (!false) {
-            System.out.print("Saisissez une opération (+,-,/,*,^) :");
+            System.out.print("Saisissez une opération (+,-,/,*,^, <, >) :");
             char operation = sc.next().charAt(0);
-            if (operation == '+' || operation == '-' || operation == '/' || operation == '*' || operation == '^') {
+            if (operation == '+' || operation == '-' || operation == '/' || operation == '*' || operation == '^' || operation == '<'  || operation == '>') {
                 System.out.print("Saisir nombre 1 :");
                 double nbr1 = sc.nextInt();
                 System.out.print("Saisir nombre 2 :");
@@ -39,6 +39,10 @@ public class Entrainement {
 
                     case '*':
                         System.out.println(f.Multiplication(nbr1, nbr2));
+                        break;
+                    case '<':
+                        break;
+                    case '>':
                         break;
                 }
                 quitter = true;

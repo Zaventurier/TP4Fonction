@@ -58,4 +58,10 @@ public class Fonctions {
     public static double Puissance(double nbr1, double nbr2){
         return Math.pow(nbr1, nbr2);
     }
+    public static double plusPetit(double nbr1, double nbr2){
+        return Math.min(nbr1, nbr2);
+    }
+    public static double plusGrand(double nbr1, double nbr2){
+        return Math.max(nbr1, nbr2);
+    }
 }
