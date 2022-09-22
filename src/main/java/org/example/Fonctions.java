@@ -12,4 +12,8 @@ public class Fonctions {
         double nbr = Math.abs(nombre);
         return nbr;
     }
+    public static double calculerMoyenne(double nb1, double nb2){
+        double moyenne = (nb1+nb2)/2;
+        return moyenne;
+    }
 }
