@@ -21,4 +21,9 @@ public class Fonctions {
         char maj = Character.toUpperCase(c);
         return maj;
     }
+    public static String getEmail(String nom, String prenom, String domaine){
+        char i = '@';
+        String email = nom + prenom + i + domaine;
+        return email;
+    }
 }
