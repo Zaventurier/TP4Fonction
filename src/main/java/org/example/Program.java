@@ -12,5 +12,11 @@ public class Program {
 
         double max = Math.max(nb1, nb2);
         System.out.println("Le nombre est : " + max);
+
+        double min = Math.min(nb1, nb2);
+        System.out.println("Le nombre est : " + min);
+
+        double pui = Math.pow(nb1, nb2);
+        System.out.println("Le nombre est : " + pui);
     }
 }
