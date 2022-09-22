@@ -18,5 +18,13 @@ public class Program {
 
         double pui = Math.pow(nb1, nb2);
         System.out.println("Le nombre est : " + pui);
+
+        Fonctions f = new Fonctions();
+        System.out.println("Saisir âge : ");
+        int age = sc.nextInt();
+        f.AfficherMajorite(age);
+
     }
+
+
 }
