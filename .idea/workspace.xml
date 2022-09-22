@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ba3de7a-9c47-4f66-be77-291dab9c1e37" name="Changes" comment="FichierFonctions + progr">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercice5ValeurA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Fonctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Fonctions.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ba3de7a-9c47-4f66-be77-291dab9c1e37" name="Changes" comment="agfyuzegtyuzg't uygv" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663843126745</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="agfyuzegtyuzg't uygv">
+      <created>1663843582697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663843582697</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +90,7 @@
     <MESSAGE value="Premier Commit" />
     <MESSAGE value="Exercice2 -" />
     <MESSAGE value="FichierFonctions + progr" />
-    <option name="LAST_COMMIT_MESSAGE" value="FichierFonctions + progr" />
+    <MESSAGE value="agfyuzegtyuzg't uygv" />
+    <option name="LAST_COMMIT_MESSAGE" value="agfyuzegtyuzg't uygv" />
   </component>
 </project>
