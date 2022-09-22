@@ -26,4 +26,9 @@ public class Fonctions {
         String email = nom + prenom + i + domaine;
         return email;
     }
+    public static void modifier(int n){
+        System.out.println("Début fonction modifier");
+        n = 0;
+        System.out.println("n vaut " + n);
+    }
 }

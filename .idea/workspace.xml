@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ba3de7a-9c47-4f66-be77-291dab9c1e37" name="Changes" comment="Fonctions - Ajout fonctions enMajuscule - Exercice7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercice8Email.java" afterDir="false" />
+    <list default="true" id="4ba3de7a-9c47-4f66-be77-291dab9c1e37" name="Changes" comment="Fonctions - Ajout fonction getEmail - Exercice8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercice9PassageParam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Fonctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Fonctions.java" afterDir="false" />
     </list>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663847002746</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fonctions - Ajout fonction getEmail - Exercice8">
+      <created>1663847626099</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663847626099</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +133,7 @@
     <MESSAGE value="Fonctions - Ajout fonctions calculer moyenne - Exercice6" />
     <MESSAGE value="Modif" />
     <MESSAGE value="Fonctions - Ajout fonctions enMajuscule - Exercice7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fonctions - Ajout fonctions enMajuscule - Exercice7" />
+    <MESSAGE value="Fonctions - Ajout fonction getEmail - Exercice8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fonctions - Ajout fonction getEmail - Exercice8" />
   </component>
 </project>
