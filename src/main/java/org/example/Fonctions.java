@@ -17,4 +17,8 @@ public class Fonctions {
         double moyenne = (nb1+nb2)/2;
         return moyenne;
     }
+    public static char enMajuscule(char c){
+        char maj = Character.toUpperCase(c);
+        return maj;
+    }
 }
