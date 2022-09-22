@@ -8,4 +8,8 @@ public class Fonctions {
             System.out.println("Majeur");
         }
     }
+    public static double valeurAbsolue(double nombre){
+        double nbr = Math.abs(nombre);
+        return nbr;
+    }
 }
