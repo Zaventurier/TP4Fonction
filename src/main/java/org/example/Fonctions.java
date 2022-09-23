@@ -67,4 +67,7 @@ public class Fonctions {
     public static double PourcentageRemise(double montantRemise, double prixInitial){
         return (montantRemise*100)/prixInitial;
     }
+    public static void TauxChange(){
+        /*Bientpôt disponible...*/
+    }
 }
