@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ba3de7a-9c47-4f66-be77-291dab9c1e37" name="Changes" comment="Fonctions - Ajout fonctions pourçentage - Entraînement - Ajout cas % (pas encore opti donc désactiver)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Entrainement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Entrainement3.java" afterDir="false" />
+    <list default="true" id="4ba3de7a-9c47-4f66-be77-291dab9c1e37" name="Changes" comment="Fonctions - Ajout début nvelle fonction - Entrainement - Ajout nveau cas - Ajout entrainement2 et Entrainement3 - Modification README">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Entrainement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Entrainement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Entrainement3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Entrainement3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Fonctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Fonctions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663936898531</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Fonctions - Ajout début nvelle fonction - Entrainement - Ajout nveau cas - Ajout entrainement2 et Entrainement3 - Modification README">
+      <created>1663937890910</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663937890910</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +198,7 @@
     <MESSAGE value="Fonctions - début ajout fonctions pourçentage + ajout cas %" />
     <MESSAGE value="README.md" />
     <MESSAGE value="Fonctions - Ajout fonctions pourçentage - Entraînement - Ajout cas % (pas encore opti donc désactiver)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fonctions - Ajout fonctions pourçentage - Entraînement - Ajout cas % (pas encore opti donc désactiver)" />
+    <MESSAGE value="Fonctions - Ajout début nvelle fonction - Entrainement - Ajout nveau cas - Ajout entrainement2 et Entrainement3 - Modification README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fonctions - Ajout début nvelle fonction - Entrainement - Ajout nveau cas - Ajout entrainement2 et Entrainement3 - Modification README" />
   </component>
 </project>

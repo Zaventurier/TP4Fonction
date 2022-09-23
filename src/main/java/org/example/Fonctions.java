@@ -67,7 +67,17 @@ public class Fonctions {
     public static double PourcentageRemise(double montantRemise, double prixInitial){
         return (montantRemise*100)/prixInitial;
     }
-    public static void TauxChange(){
+    /*public static double TauxChange(double prix, char devise){
         /*Bientpôt disponible...*/
-    }
+        /*if(devise == '$'){
+            double dollars = 0.97;
+            double change = devise*dollars;
+            return change;
+        }
+        else if(devise == '£'){
+            double livreS = 0.88;
+            double change = devise*livreS;
+            return change;
+        }
+    }*/
 }
