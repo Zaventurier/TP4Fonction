@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ba3de7a-9c47-4f66-be77-291dab9c1e37" name="Changes" comment="Fonctions - Ajout de 2 nouvelles fonctions : Min et Max ; Ajout de 2 nouveaux cas : Min et Max">
+    <list default="true" id="4ba3de7a-9c47-4f66-be77-291dab9c1e37" name="Changes" comment="README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Entrainement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Entrainement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Fonctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Fonctions.java" afterDir="false" />
@@ -139,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663861534875</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Fonctions - début ajout fonctions pourçentage + ajout cas %">
+      <created>1663871850219</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663871850220</updated>
+    </task>
+    <task id="LOCAL-00015" summary="README.md">
+      <created>1663872078407</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663872078407</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +180,8 @@
     <MESSAGE value="Fonctions - Ajout de fonctions pour calcul (+, -, /, *, ^) + amélioration  calculatrice du TP3" />
     <MESSAGE value="Modification de fonctions" />
     <MESSAGE value="Fonctions - Ajout de 2 nouvelles fonctions : Min et Max ; Ajout de 2 nouveaux cas : Min et Max" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fonctions - Ajout de 2 nouvelles fonctions : Min et Max ; Ajout de 2 nouveaux cas : Min et Max" />
+    <MESSAGE value="Fonctions - début ajout fonctions pourçentage + ajout cas %" />
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
 </project>

@@ -17,7 +17,7 @@ public class Entrainement {
         while (!false) {
             System.out.print("Saisissez une opération (+,-,/,*,^, <, >, %) :");
             char operation = sc.next().charAt(0);
-            if (operation == '+' || operation == '-' || operation == '/' || operation == '*' || operation == '^' || operation == '<'  || operation == '>') {
+            if (operation == '+' || operation == '-' || operation == '/' || operation == '*' || operation == '^' || operation == '<'  || operation == '>' /*|| operation == '%'*/) {
                 System.out.print("Saisir nombre 1 :");
                 double nbr1 = sc.nextInt();
                 System.out.print("Saisir nombre 2 :");
@@ -52,12 +52,22 @@ public class Entrainement {
                         System.out.println(f.plusGrand(nbr1, nbr2));
                         break;
                     case '%':
+                        System.out.println("Calcul du pourçenage d'une remise entre " + nbr1 + " et " + nbr2 + " !");
+                        System.out.println(nbr1 + " équivaut au prix initial.");
+                        System.out.println(nbr2 + " équivaut au prix final.");
+                        double montantRemise = f.Soustraction(nbr1, nbr2);
+                        System.out.println("La remise est de : " +montantRemise);
+                        double pourcentage = f.PourcentageRemise(montantRemise, nbr1);
+                        System.out.println("Le pourçentage de réduction est de : " +pourcentage + " %");
                         break;
                 }
                 quitter = true;
+                System.out.println("Fin");
+                break;
             } else {
                 quitter = true;
-                System.out.println("Fin");
+                System.out.println("ERREUR");
+                break;
             }
         }
     }
